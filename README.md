@@ -9,7 +9,7 @@
 ## 🚀 Features
 
 - **Electricity & Gas Cost Calculation**  
-  Users can enter their energy consumption (electricity in kWh or gas in m³), per-unit rate, fixed monthly fees, and usage duration to calculate their total monthly cost.
+  Users can enter their energy consumption, per-unit rate, fixed monthly fees, and usage duration to calculate their total monthly cost.
 
 - **Top 3 Provider Comparison**  
   The app automatically compares various companies based on user input and displays the top 3 options with the best pricing and estimated yearly savings.
