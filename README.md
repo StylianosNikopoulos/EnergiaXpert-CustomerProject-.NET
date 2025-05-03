@@ -25,18 +25,22 @@
 ## 🧰 Tech Stack
 
 - **Backend:** ASP.NET Core MVC (C#)  
-- **Frontend:** HTML, CSS, JavaScript (with SweetAlert for user feedback)  
+- **Frontend:** HTML, CSS, JavaScript
 - **Database:** SQL Server with Entity Framework  
 - **Email Notifications:** MimeKit & MailKit  
 - **Hosting:** Microsoft Azure (custom domain)
 
 ---
 
-## 📩 Contact System
+- ## 📩 Contact System
 
 - Fields: Name, Phone Number, Email, Message  
-- File upload capability for additional user documents  
+- File upload capability for additional user documents (e.g. energy bills, contracts)  
 - Sends email directly to business admin upon form submission
+
+> ⚠️ **Privacy Notice:**  
+> All submitted information and uploaded files are securely transmitted and handled solely for the purpose of responding to user inquiries. No data is stored or shared with third parties.
+
 
 ---
 
