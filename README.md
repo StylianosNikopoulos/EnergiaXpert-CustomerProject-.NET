@@ -1,47 +1,43 @@
-# ⚡ EnergiaXpert – Energy & Gas Cost Comparison Web App
+# EnergiaXpert – Energy & Gas Cost Comparison Web App
 
-**🌐 Live URL:** [https://energiaxpertapp-abe0h4eeejaehgbq.italynorth-01.azurewebsites.net](https://energiaxpertapp-abe0h4eeejaehgbq.italynorth-01.azurewebsites.net)
+🌐 **Live URL:** [EnergiaXpert Web App](https://energiaxpertapp-abe0h4eeejaehgbq.italynorth-01.azurewebsites.net)
+**Domain update:** The custom domain will be added in a few days as it is not activated yet.
 
-**EnergiaXpert** is a modern web application that helps users compare electricity and gas prices across different providers, calculate their monthly energy expenses, and communicate directly with the business. It's built to make energy cost management simple, transparent, and user-friendly.
-
----
+EnergiaXpert is a modern web application designed to simplify the process of comparing electricity and gas prices, calculating monthly energy costs, and facilitating communication with energy providers. The app offers users an easy-to-use platform to manage and track their energy expenses.
 
 ## 🚀 Features
 
-- **Electricity & Gas Cost Calculation**  
-  Users can enter their energy consumption, per-unit rate, fixed monthly fees, and usage duration to calculate their total monthly cost.
+- **Electricity & Gas Cost Calculation:**  
+  Users can input their energy consumption, per-unit rate, fixed monthly fees, and usage duration to calculate their total monthly cost.
+  
+- **Top 3 Provider Comparison:**  
+  Based on user input, the app automatically compares multiple providers and displays the top 3 options offering the best pricing and estimated yearly savings.
+  
+- **Professional Invoicing:**  
+  Generate clean, professional invoices with a blue theme for clear financial reporting and tracking.
 
-- **Top 3 Provider Comparison**  
-  The app automatically compares various companies based on user input and displays the top 3 options with the best pricing and estimated yearly savings.
-
-- **Professional Invoicing**  
-  Generate blue-themed, professional invoices for clear financial reporting.
-
-- **Advanced Contact Form with File Upload**  
-  Users can submit a contact form with their details and upload relevant documents (e.g. past bills, contracts). All submissions are sent via email to the admin for prompt response.
-
----
+- **Advanced Contact Form with File Upload:**  
+  Users can submit a contact form with their details and upload relevant documents such as energy bills or contracts. All submissions are sent via email to the admin for prompt response.
 
 ## 🧰 Tech Stack
 
-- **Backend:** ASP.NET Core MVC (C#)  
+- **Backend:** ASP.NET Core MVC (C#)
 - **Frontend:** HTML, CSS, JavaScript
-- **Database:** SQL Server with Entity Framework  
-- **Email Notifications:** MimeKit & MailKit  
+- **Database:** SQL Server with Entity Framework
+- **Email Notifications:** MimeKit & MailKit
 - **Hosting:** Microsoft Azure (custom domain)
-
----
 
 ## 📩 Contact System
 
-- Fields: Name, Phone Number, Email, Message  
-- File upload capability for additional user documents (e.g. energy bills, contracts)  
+- **Fields:** Name, Phone Number, Email, Message
+- File upload capability for additional user documents (e.g. energy bills, contracts)
 - Sends email directly to business admin upon form submission
 
-> ⚠️ **Privacy Notice:**  
-> All submitted information and uploaded files are securely transmitted and handled solely for the purpose of responding to user inquiries. No data is stored or shared with third parties.
+## ⚠️ Privacy Notice
 
+All submitted information and uploaded files are securely transmitted and handled solely for the purpose of responding to user inquiries. No data is stored or shared with third parties.
 
----
+## 📌 Note
 
-📌 **Note:** This is a **showcase repository**. Source code is not publicly available due to client confidentiality.
+This is a showcase repository. Source code is not publicly available due to client confidentiality.
+
