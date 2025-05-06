@@ -31,7 +31,7 @@ EnergiaXpert is a modern web application designed to simplify the process of com
 ## 📩 Contact System
 
 - **Fields:** Name, Phone Number, Email, Message
-- File upload capability for additional user documents (e.g. energy bills, contracts)
+- File upload capability for additional user documents (e.g. energy bills)
 - Sends email directly to business admin upon form submission
 
 ## ⚠️ Privacy Notice
