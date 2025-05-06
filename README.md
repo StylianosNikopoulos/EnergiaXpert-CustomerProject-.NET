@@ -1,6 +1,6 @@
 # EnergiaXpert – Energy & Gas Cost Comparison Web App
 
-🌐 **Live URL:** [EnergiaXpert Web App](https://energiaxpertapp-abe0h4eeejaehgbq.italynorth-01.azurewebsites.net)
+**🌐 Live URL:** [https://energiaxpertapp-abe0h4eeejaehgbq.italynorth-01.azurewebsites.net](https://energiaxpertapp-abe0h4eeejaehgbq.italynorth-01.azurewebsites.net)
 **Domain update:** The custom domain will be added in a few days as it is not activated yet.
 
 EnergiaXpert is a modern web application designed to simplify the process of comparing electricity and gas prices, calculating monthly energy costs, and facilitating communication with energy providers. The app offers users an easy-to-use platform to manage and track their energy expenses.
