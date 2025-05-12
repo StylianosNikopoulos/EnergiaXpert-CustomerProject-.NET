@@ -1,6 +1,6 @@
 # EnergiaXpert – Energy & Gas Cost Comparison Web App
 
-🌐 **Live URL:** [EnergiaXpert Web App](https://energiaxpertapp-abe0h4eeejaehgbq.italynorth-01.azurewebsites.net)
+🌐 **Live URL:** [EnergiaXpert Web App](https://energiaxpert.gr/)
 
 **Domain update:** The custom domain will be added in a few days as it is not activated yet.
 
