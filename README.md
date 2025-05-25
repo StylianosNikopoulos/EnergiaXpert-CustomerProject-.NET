@@ -1,6 +1,10 @@
 # EnergiaXpert – Energy & Gas Cost Comparison Web App
 
 🌐 **Live URL:** [EnergiaXpert Web App](https://energiaxpert.gr/)
+🔧 **Update (May 25, 2025):**  
+The live demo is temporarily offline while we move to a new hosting environment.  
+We expect it to be restored by **May 27, 2025**.
+
 
 
 EnergiaXpert is a modern web application designed to simplify the process of comparing electricity and gas prices, calculating monthly energy costs, and facilitating communication with energy providers. The app offers users an easy-to-use platform to manage and track their energy expenses.
