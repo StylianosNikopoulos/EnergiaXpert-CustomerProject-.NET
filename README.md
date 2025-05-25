@@ -1,6 +1,7 @@
 # EnergiaXpert – Energy & Gas Cost Comparison Web App
 
 🌐 **Live URL:** [EnergiaXpert Web App](https://energiaxpert.gr/)
+
 🔧 **Update (May 25, 2025):**  
 The live demo is temporarily offline while we move to a new hosting environment.  
 We expect it to be restored by **May 27, 2025**.
